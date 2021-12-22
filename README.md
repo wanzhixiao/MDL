@@ -27,3 +27,4 @@ test result
 ```
 convergency curve
 ![convergency](./image/loss.png)
+
